@@ -3,6 +3,12 @@
  <img src = "superstore sales_dashboard.png"
   width = "100%" alt = "power BI 
   dashboard"> 
+</p>  
+
+<p align = "center"> 
+ <img src = "super store_sales_forcast.png"
+  width = "100%" alt = "power BI 
+  dashboard"> 
 </p> 
 # Superstore Sales Analytics & Forecasting Dashboard
 
