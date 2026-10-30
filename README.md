@@ -1,7 +1,4 @@
 # Super-Store-Sales-Dashboard 
-![Sales Dashboard](super store_sales_forcast.png)
-
-![Forecasting Dashboard](superstore sales_dashboard.png)
 
 # Superstore Sales Analytics & Forecasting Dashboard
 
