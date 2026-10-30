@@ -13,11 +13,6 @@ The primary objectives of this analytics and forecasting project are:
 
 ## ## 📊 Dashboard Visualizations
 
-<p align="center">
-  <img src="image_yafC1E.png" width="48%" alt="Sales Dashboard" />
-  <img src="image_CsAUbE.png" width="48%" alt="Forecasting Dashboard" />
-</p>
-
 ### Page 1: Super Store Sales Dashboard
 This view provides a high-level retrospective look at historical performance metrics and distribution across various operational segments:
 
