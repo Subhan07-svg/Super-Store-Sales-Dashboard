@@ -1,5 +1,9 @@
 # Super-Store-Sales-Dashboard 
-
+<p align = "center"> 
+ <img src = "superstore sales_dashboard.png"
+  width = "100%" alt = "power BI 
+  dashboard"> 
+</p> 
 # Superstore Sales Analytics & Forecasting Dashboard
 
 ## 📌 Project Objectives
